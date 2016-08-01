@@ -17,7 +17,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ikeahk.3tichina.com/ikeash/i/ipadIcon.jpg</string>
+					<string>https://github.com/huxiaohe/ikeash/raw/master/ipadIcon.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,7 +25,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ikeahk.3tichina.com/ikeash/i/iphoneIcon.jpg</string>
+					<string>https://github.com/huxiaohe/ikeash/raw/master/iphoneIcon.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
